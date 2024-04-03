@@ -1,0 +1,5 @@
+node_modules/
+.vscode/
+files/*.fit
+
+package-lock.json

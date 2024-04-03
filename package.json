@@ -1,0 +1,15 @@
+{
+  "name": "magene-activities-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.3"
+  },
+  "dependencies": {
+    "puppeteer": "^22.6.2"
+  }
+}
